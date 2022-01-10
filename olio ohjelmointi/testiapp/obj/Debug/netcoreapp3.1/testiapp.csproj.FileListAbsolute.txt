@@ -1,0 +1,14 @@
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.csproj.AssemblyReference.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.AssemblyInfoInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.AssemblyInfo.cs
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.csproj.CoreCompileInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\bin\Debug\netcoreapp3.1\testiapp.exe
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\bin\Debug\netcoreapp3.1\testiapp.deps.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\bin\Debug\netcoreapp3.1\testiapp.runtimeconfig.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\bin\Debug\netcoreapp3.1\testiapp.runtimeconfig.dev.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\bin\Debug\netcoreapp3.1\testiapp.dll
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\bin\Debug\netcoreapp3.1\testiapp.pdb
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.dll
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.pdb
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\testiapp\obj\Debug\netcoreapp3.1\testiapp.genruntimeconfig.cache
