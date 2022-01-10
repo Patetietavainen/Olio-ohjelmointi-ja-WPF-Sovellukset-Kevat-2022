@@ -20,8 +20,9 @@ namespace testiapp
             koira2.rotu = "mopsi";
 
             koira2.TulostaData();
-
-
+            
+            //saa kirjoitettua lyhyemmin
+            koira koira3 = new koira("urho,", 5, "mopsi");
         }
     }
 }

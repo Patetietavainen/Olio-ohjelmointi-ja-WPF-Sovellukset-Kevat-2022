@@ -1,0 +1,14 @@
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\bin\Debug\netcoreapp3.1\ajoneuvo.exe
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\bin\Debug\netcoreapp3.1\ajoneuvo.deps.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\bin\Debug\netcoreapp3.1\ajoneuvo.runtimeconfig.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\bin\Debug\netcoreapp3.1\ajoneuvo.runtimeconfig.dev.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\bin\Debug\netcoreapp3.1\ajoneuvo.dll
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\bin\Debug\netcoreapp3.1\ajoneuvo.pdb
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.csproj.AssemblyReference.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.AssemblyInfoInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.AssemblyInfo.cs
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.csproj.CoreCompileInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.dll
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.pdb
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\ajoneuvo\obj\Debug\netcoreapp3.1\ajoneuvo.genruntimeconfig.cache

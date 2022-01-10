@@ -1,0 +1,14 @@
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.AssemblyInfoInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.AssemblyInfo.cs
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.csproj.CoreCompileInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.csproj.AssemblyReference.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\bin\Debug\netcoreapp3.1\kiuas.exe
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\bin\Debug\netcoreapp3.1\kiuas.deps.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\bin\Debug\netcoreapp3.1\kiuas.runtimeconfig.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\bin\Debug\netcoreapp3.1\kiuas.runtimeconfig.dev.json
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\bin\Debug\netcoreapp3.1\kiuas.dll
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\bin\Debug\netcoreapp3.1\kiuas.pdb
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.dll
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.pdb
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\kiuas\obj\Debug\netcoreapp3.1\kiuas.genruntimeconfig.cache
