@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ajoneuvo", "ajoneuvo\ajoneu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiuas", "kiuas\kiuas.csproj", "{859DD030-D787-4DB1-AE0A-429E90DA82FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä 4", "Tehtävä 4\Tehtävä 4.csproj", "{490EB9B2-6127-469B-8661-EC694E44AA26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{859DD030-D787-4DB1-AE0A-429E90DA82FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{859DD030-D787-4DB1-AE0A-429E90DA82FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{859DD030-D787-4DB1-AE0A-429E90DA82FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490EB9B2-6127-469B-8661-EC694E44AA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490EB9B2-6127-469B-8661-EC694E44AA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490EB9B2-6127-469B-8661-EC694E44AA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490EB9B2-6127-469B-8661-EC694E44AA26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
