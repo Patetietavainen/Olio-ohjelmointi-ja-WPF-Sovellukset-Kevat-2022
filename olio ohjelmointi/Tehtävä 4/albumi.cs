@@ -8,13 +8,9 @@ namespace Tehtävä_4
     {
         private List<kappale> kappaleet = new List<kappale>();
 
-        public void LisääKappale(kappale uusiKappale)
+        public void LisääKappale(kappale uusiKappale) => kappaleet.Add(uusiKappale);
 
-        {
-            kappaleet.Add(uusiKappale);
-        }
-
-        {
+    {
          public void TulostaKappaleet()
         {
             foreach (kappale kappale in kappaleet)
@@ -22,10 +18,7 @@ namespace Tehtävä_4
                 Console.WriteLine(kappale.nimi + "," + kappale.pituus);
             }
 
-            {
-                artist nimi: "pyhimys "
-                song: "fuck the world"
-            }
+           
 
 
         }
@@ -35,4 +28,4 @@ namespace Tehtävä_4
         }
 
     }
-}
+
