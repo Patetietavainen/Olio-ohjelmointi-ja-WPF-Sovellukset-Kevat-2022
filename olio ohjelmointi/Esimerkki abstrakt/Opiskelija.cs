@@ -10,7 +10,7 @@ namespace Esimerkki_abstrakt
 
         public override void Puhu()
         {
-            Console.WriteLine(Nimi + " puhuu opiskelija luokassa");
+            Console.WriteLine( Nimi + " puhuu opiskelija luokassa");
         }
     }
 }
