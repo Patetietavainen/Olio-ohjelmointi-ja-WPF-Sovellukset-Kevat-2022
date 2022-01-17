@@ -1,0 +1,4 @@
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 8\obj\Debug\netcoreapp3.1\Harjoitus 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 8\obj\Debug\netcoreapp3.1\Harjoitus 8.AssemblyInfoInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 8\obj\Debug\netcoreapp3.1\Harjoitus 8.AssemblyInfo.cs
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 8\obj\Debug\netcoreapp3.1\Harjoitus 8.csproj.CoreCompileInputs.cache

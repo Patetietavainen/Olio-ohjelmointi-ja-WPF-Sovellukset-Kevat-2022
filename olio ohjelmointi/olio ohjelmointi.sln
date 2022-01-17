@@ -11,17 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kiuas", "kiuas\kiuas.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tehtävä 4", "Tehtävä 4\Tehtävä 4.csproj", "{490EB9B2-6127-469B-8661-EC694E44AA26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static_esimerkki", "static\static_esimerkki.csproj", "{2B7A690F-EE40-4D54-BDE7-53C7F9A74270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static_esimerkki", "static\static_esimerkki.csproj", "{2B7A690F-EE40-4D54-BDE7-53C7F9A74270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laskin", "Laskin\Laskin.csproj", "{1A9D421A-EF79-404C-98D8-5BF53B8E1A7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laskin", "Laskin\Laskin.csproj", "{1A9D421A-EF79-404C-98D8-5BF53B8E1A7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perintö", "Perintö\Perintö.csproj", "{E5E2B481-73B4-437A-826F-913A32E6B600}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perintö", "Perintö\Perintö.csproj", "{E5E2B481-73B4-437A-826F-913A32E6B600}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esimerkki abstrakt", "Esimerkki abstrakt\Esimerkki abstrakt.csproj", "{5A166F06-7305-4E29-B77E-94BE9DFE70B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Esimerkki abstrakt", "Esimerkki abstrakt\Esimerkki abstrakt.csproj", "{5A166F06-7305-4E29-B77E-94BE9DFE70B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eläin", "Eläin\Eläin.csproj", "{E9E0E43D-8D14-48B0-B55C-9438523C31F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eläin", "Eläin\Eläin.csproj", "{E9E0E43D-8D14-48B0-B55C-9438523C31F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 7", "Harjoitus 7\Harjoitus 7.csproj", "{F2BC1226-235D-4912-8482-040951D3BBAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 7", "Harjoitus 7\Harjoitus 7.csproj", "{F2BC1226-235D-4912-8482-040951D3BBAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 8", "Harjoitus 8\Harjoitus 8.csproj", "{40932B44-D182-4D47-B52E-87E34961A25F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjotus 11", "ConsoleApp2\harjotus 11.csproj", "{A04408B8-2F03-47DE-823E-3293F6D7D8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio", "Radio\Radio.csproj", "{07CDF692-E29D-4382-8528-0E9A524CD631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{F2BC1226-235D-4912-8482-040951D3BBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BC1226-235D-4912-8482-040951D3BBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BC1226-235D-4912-8482-040951D3BBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40932B44-D182-4D47-B52E-87E34961A25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40932B44-D182-4D47-B52E-87E34961A25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40932B44-D182-4D47-B52E-87E34961A25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40932B44-D182-4D47-B52E-87E34961A25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04408B8-2F03-47DE-823E-3293F6D7D8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04408B8-2F03-47DE-823E-3293F6D7D8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04408B8-2F03-47DE-823E-3293F6D7D8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04408B8-2F03-47DE-823E-3293F6D7D8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CDF692-E29D-4382-8528-0E9A524CD631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CDF692-E29D-4382-8528-0E9A524CD631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CDF692-E29D-4382-8528-0E9A524CD631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CDF692-E29D-4382-8528-0E9A524CD631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
