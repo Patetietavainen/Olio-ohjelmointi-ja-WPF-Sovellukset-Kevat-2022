@@ -11,3 +11,4 @@ C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WP
 C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.dll
 C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.pdb
 C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.genruntimeconfig.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjoitus 7\obj\Debug\netcoreapp3.1\Harjoitus 7.csproj.AssemblyReference.cache
