@@ -6,9 +6,11 @@
         xmlns:local="clr-namespace:WpfApp3"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="439,203,0,0" VerticalAlignment="Top" Height="74" Width="82"/>
-        <TextBox HorizontalAlignment="Left" Margin="343,146,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+    <Grid Margin="0,0,10,-44">
+        <Button x:Name="btn_olohuone" Content="Button" HorizontalAlignment="Left" Margin="439,203,0,0" VerticalAlignment="Top" Height="74" Width="82"/>
+        <TextBox HorizontalAlignment="Left" Margin="275,305,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_tvhuone" Content="Button" HorizontalAlignment="Left" Margin="578,155,0,0" VerticalAlignment="Top" Height="52" Width="96" RenderTransformOrigin="3.549,-2.102"/>
+        <Button x:Name="btn_keittiö" Content="Button" HorizontalAlignment="Left" Margin="586,240,0,0" VerticalAlignment="Top" Height="65" Width="80" RenderTransformOrigin="1.36,-1.137"/>
 
     </Grid>
 </Window>
