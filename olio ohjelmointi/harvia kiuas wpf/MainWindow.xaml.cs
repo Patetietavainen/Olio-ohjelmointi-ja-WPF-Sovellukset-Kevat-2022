@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -24,8 +25,8 @@ namespace harvia_kiuas_wpf
     public partial class MainWindow : Window
 
     {
-        kiuas kiuas = new kiuas ();
-        
+        kiuas kiuas = new kiuas();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -48,6 +49,21 @@ namespace harvia_kiuas_wpf
             int uusiLämpötila = kiuas.Lämpötila - 5;
             kiuas.VaihdaLämpötila(uusiLämpötila);
             tb_Lämpötila.Text = kiuas.Lämpötila.ToString();
+        }
+
+        private void input_Kosteus_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+            Regex regex = new Regex("0-9 +");
+            e.Handled = regex.IsMatch(e.Text);
+        }
+
+
+        private void input_Kosteus_TextChanged(object sender, TextChangedEventArgs e)
+        { 
+        
+        {
+                kiuas.VaihdaKosteutta(int.Parse(input_Kosteus.Text));
+                tb_Kosteus.Text = kiuas.Kosteus.ToString();
         }
     }
 }

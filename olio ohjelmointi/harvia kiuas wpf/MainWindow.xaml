@@ -16,6 +16,7 @@
             </InlineUIContainer></TextBlock>
         <Button x:Name="btn_Lämpötilaup" Content="Button" HorizontalAlignment="Left" Margin="58,115,0,0" VerticalAlignment="Top" Width="75" Background="#FF2302FF" Click="btn_Lämpötilaup_Click"/>
         <Button x:Name="btn_Lämpötiladown" Content="Button" HorizontalAlignment="Left" Margin="58,139,0,0" VerticalAlignment="Top" Width="75" Background="#FF2302FF" Click="btn_Lämpötiladown_Click"/>
+        <TextBox x:Name="input_Kosteus" HorizontalAlignment="Left" Height="23" Margin="424,291,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" PreviewTextInput="input_Kosteus_PreviewTextInput" TextChanged="input_Kosteus_TextChanged"/>
 
     </Grid>
 </Window>
