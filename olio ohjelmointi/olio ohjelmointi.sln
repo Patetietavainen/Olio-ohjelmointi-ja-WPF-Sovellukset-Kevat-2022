@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sivujen vaihto", "Sivujen v
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hissi1", "Hissi1\Hissi1.csproj", "{88D52677-73BF-4287-9637-DD0E41F3B360}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harvia kiuas wpf", "harvia kiuas wpf\harvia kiuas wpf.csproj", "{943F762D-82E5-40FF-AB8D-5ABBF9A876A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{88D52677-73BF-4287-9637-DD0E41F3B360}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88D52677-73BF-4287-9637-DD0E41F3B360}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88D52677-73BF-4287-9637-DD0E41F3B360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943F762D-82E5-40FF-AB8D-5ABBF9A876A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943F762D-82E5-40FF-AB8D-5ABBF9A876A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943F762D-82E5-40FF-AB8D-5ABBF9A876A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943F762D-82E5-40FF-AB8D-5ABBF9A876A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

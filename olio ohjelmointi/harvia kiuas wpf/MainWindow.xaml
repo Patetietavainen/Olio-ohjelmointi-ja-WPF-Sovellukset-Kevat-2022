@@ -1,0 +1,21 @@
+﻿<Window x:Class="harvia_kiuas_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:harvia_kiuas_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="332" Margin="58,58,0,0" VerticalAlignment="Top" Width="651" Source="NewFolder1/harvia_legend150_.jpg"/>
+        <TextBlock HorizontalAlignment="Left" Margin="424,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Red" Height="32" Width="180"><Run FontSize="22" Text="Lämpötila"/><Run FontSize="22" Text=" "/><InlineUIContainer>
+                <TextBlock x:Name="tb_Lämpötila" TextWrapping="Wrap" Text="0" FontSize="22"/>
+            </InlineUIContainer></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="424,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Red" Height="32" Width="180" FontSize="22"><Run Text="Kosteus"/><InlineUIContainer>
+                <TextBlock x:Name="tb_Kosteus" TextWrapping="Wrap" Text="    0" Width="97" RenderTransformOrigin="1.467,0.249"/>
+            </InlineUIContainer></TextBlock>
+        <Button x:Name="btn_Lämpötilaup" Content="Button" HorizontalAlignment="Left" Margin="58,115,0,0" VerticalAlignment="Top" Width="75" Background="#FF2302FF" Click="btn_Lämpötilaup_Click"/>
+        <Button x:Name="btn_Lämpötiladown" Content="Button" HorizontalAlignment="Left" Margin="58,139,0,0" VerticalAlignment="Top" Width="75" Background="#FF2302FF" Click="btn_Lämpötiladown_Click"/>
+
+    </Grid>
+</Window>
