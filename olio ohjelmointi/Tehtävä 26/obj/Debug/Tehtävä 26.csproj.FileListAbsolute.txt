@@ -1,0 +1,15 @@
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26.csproj.AssemblyReference.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\MainWindow.g.cs
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\App.g.cs
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26_MarkupCompile.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26_MarkupCompile.lref
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\bin\Debug\Tehtävä 26.exe.config
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\bin\Debug\Tehtävä 26.exe
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\bin\Debug\Tehtävä 26.pdb
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\MainWindow.baml
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26.g.resources
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä_26.Properties.Resources.resources
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26.csproj.GenerateResource.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26.csproj.CoreCompileInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26.exe
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Tehtävä 26\obj\Debug\Tehtävä 26.pdb

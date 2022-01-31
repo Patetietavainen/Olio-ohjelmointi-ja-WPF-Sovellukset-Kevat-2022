@@ -1,0 +1,5 @@
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjotus 12\obj\Debug\netcoreapp3.1\Harjotus 12.csproj.AssemblyReference.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjotus 12\obj\Debug\netcoreapp3.1\Harjotus 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjotus 12\obj\Debug\netcoreapp3.1\Harjotus 12.AssemblyInfoInputs.cache
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjotus 12\obj\Debug\netcoreapp3.1\Harjotus 12.AssemblyInfo.cs
+C:\Users\patrick.tietavainen\source\repos\Patetietavainen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio ohjelmointi\Harjotus 12\obj\Debug\netcoreapp3.1\Harjotus 12.csproj.CoreCompileInputs.cache

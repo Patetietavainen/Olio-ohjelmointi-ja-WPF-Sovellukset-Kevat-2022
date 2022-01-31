@@ -41,7 +41,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hissi1", "Hissi1\Hissi1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harvia kiuas wpf", "harvia kiuas wpf\harvia kiuas wpf.csproj", "{943F762D-82E5-40FF-AB8D-5ABBF9A876A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 12", "Harjotus 12\Harjotus 12.csproj", "{BD8522BD-4943-481B-B9D1-208549B83A72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjotus 12", "Harjotus 12\Harjotus 12.csproj", "{BD8522BD-4943-481B-B9D1-208549B83A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä 26", "Tehtävä 26\Tehtävä 26.csproj", "{E47946FF-2D06-4E23-BDCD-99CF9BD3E8B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{BD8522BD-4943-481B-B9D1-208549B83A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD8522BD-4943-481B-B9D1-208549B83A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD8522BD-4943-481B-B9D1-208549B83A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47946FF-2D06-4E23-BDCD-99CF9BD3E8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47946FF-2D06-4E23-BDCD-99CF9BD3E8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47946FF-2D06-4E23-BDCD-99CF9BD3E8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47946FF-2D06-4E23-BDCD-99CF9BD3E8B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
